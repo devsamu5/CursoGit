@@ -3,4 +3,10 @@ String empleados [] = {"Antonio", "Oscar", Carlos"};
 
 double sueldos [] = {2500, 3000, 3500};
 
-System.out.println(sueldos[])
+
+for(int i = 0; i < 3; i++) {
+
+	System.out.println(sueldos[i]
+
+
+
