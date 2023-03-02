@@ -1,0 +1,6 @@
+
+String empleados [] = {"Antonio", "Oscar", Carlos"};
+
+double sueldos [] = {2500, 3000, 3500};
+
+System.out.println(sueldos[])
