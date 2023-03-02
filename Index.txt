@@ -1,0 +1,13 @@
+
+Proyecto pagina web empresa A:
+
+	
+	String nombre: "Empresa A"
+	
+	String seccion: "Agricultura"
+
+	int codigo: 1000
+
+
+	El proyecto sigue adelante
+
